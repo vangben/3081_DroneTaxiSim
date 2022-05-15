@@ -5,6 +5,10 @@ Renee Liu <br>
 Roby Thomas <br>
 Donald Tan <br>
 
+## Prerequisites
+
+The more important parts of the code uses C++ so you will need to use a Linux OS to run 'make' or follow [these](https://stackoverflow.com/questions/32127524/how-to-install-and-use-make-in-windows) instructions for windows.
+
 ## Getting Started
 
 Here is a quick overview of how to run the visualization (These steps are similar in each build environment.  See below for environment details.):
