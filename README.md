@@ -24,7 +24,7 @@ Here is a quick overview of how to run the visualization (These steps are simila
     # Run the project (./build/web-app <port> <web folder>)
     ./build/bin/transit_service 8081 apps/transit_service/web/
     ```
-Open up two browser tabs:<br>
+Next, open up two browser tabs:<br>
 1. Navigate to http://127.0.0.1:8081/schedule.html and you should see a page to schedule the trips. <br>
     a. Enter a name and click on <strong>only</strong> two locations on the 
     google maps image. Then click schedule.<br>
