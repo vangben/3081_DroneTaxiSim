@@ -3,7 +3,7 @@ Team DDrill/Collaborators:<br>
 Ben Vang <br>
 Renee Liu <br>
 Roby Thomas <br>
-Donald Tan <br>
+Donald Tan <br> <br>
 Note: The front-end and simulation code was given to us as coursework focused mainly on C++ implementation of design patterns and to practice AGILE methods. 
 
 ## Prerequisites
