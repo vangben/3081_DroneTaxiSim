@@ -4,10 +4,11 @@ Ben Vang <br>
 Renee Liu <br>
 Roby Thomas <br>
 Donald Tan <br>
+Note: The front-end and simulation code was given to us as coursework focused mainly on C++ implementation of design patterns and to practice AGILE methods. 
 
 ## Prerequisites
 
-The more important parts of the code uses C++ so you will need to use a Linux OS to run 'make' or follow [these](https://stackoverflow.com/questions/32127524/how-to-install-and-use-make-in-windows) instructions for windows.
+The more important parts of the code uses C++ so you will need to use a Linux OS to run 'make' command or follow [these](https://stackoverflow.com/questions/32127524/how-to-install-and-use-make-in-windows) instructions for windows.
 
 ## Getting Started
 
